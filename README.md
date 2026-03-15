@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 • 🎓 MCA graduate from TKIET Warananagar with interest in software development<br>• 💻 Experienced in web development (front-end & back-end)<br>• 🚀 Worked on an e-commerce project during internship<br>• 📚 Currently learning new technologies and improving coding skills<br>• 🎯 Looking for an opportunity to start my career and grow in the IT industry
 
 
